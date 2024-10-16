@@ -1,1 +1,36 @@
+.container1{
+		background-color: darkblue;
+		text-align: center;
+}
 
+
+
+.container2{
+	background: #2a4652;
+	width: 300px;
+	padding: 30px;
+	border: 3px dotted black;
+	box-shadow: 2px 2px 10px rgb(0, 0, 0, 0,8);
+	margin: auto;
+}
+
+
+
+body{
+	background-image: url(https://e0.pxfuel.com/wallpapers/139/61/desktop-wallpaper-vibrant-without-watermarks.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+label{
+	font-style:italic ;
+	font-weight: bold;
+}
+
+#submit{
+	background-color: lightblue;
+	color: whitesmoke;
+	border-radius: 15px;
+	font-size: 20px;
+}
